@@ -32,7 +32,9 @@
     "vue-lottie": "^0.1.0",
     "vue-template-compiler": "^2.2.1",
     "webpack": "^2.2.0",
-    "webpack-dev-server": "^2.2.0"
+    "webpack-dev-server": "^2.2.0",
+    "macaddress": ">=0.2.9",
+    "url-parse": ">=1.4.3"
   },
   "main": "src/lottie.vue",
   "keywords": [
